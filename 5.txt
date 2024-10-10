@@ -1,0 +1,4 @@
+Eu ligo dois interruptores ao mesmo tempo. e vou a uma sala
+
+Se a luz estiver apagada, sei que o interruptor que esta desligado é o daquela sala. Assim irei voltar aos interruptores, desligarei um dos dois ligados, e irei a outra sala. Se estiver desligado é do interruptor que eu desligui por ultimo, e o interruptor que esta ligado é da outra sala. Se estiver ligado o que esta ligado é dessa sala, e o desligado da outra.
+
